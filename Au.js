@@ -5,11 +5,7 @@ const products = {
             name: 'Eclaire Lataffa',
             price: 3000,
             image: 'https://via.placeholder.com/300x400/FF69B4/white?text=Rose+Ambre',
-            description: 'Eclaire captivates the senses with a creamy sweetness that lingers like a soft, luminous whisper."',
-            About: 'Lattafa Eclaire is a sweet, creamy fragrance that wraps you in warmth and indulgence. It opens with rich notes of caramel and sugar, melting smoothly into soft milky accords and hints of vanilla. As it settles, gentle musks and creamy woods create a cozy, irresistible trail that feels both comforting and luxurious. Perfect for lovers of gourmand scents, Eclaire is like wearing dessert on your skin—soft, addictive, and unforgettable.',
-            ingredients: 'Alcohol, Parfum, Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane',
-            longevity: '5-7 hours',
-            occasion: 'Ideal for office wear, brunch dates, and daytime events'
+            description: 'Eclaire captivates the senses with a creamy sweetness that lingers like a soft, luminous whisper'
         },
         {
             id: 'w2',
