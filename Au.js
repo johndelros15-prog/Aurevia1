@@ -2,14 +2,10 @@ const products = {
     women: [
         {
             id: 'w1',
-            name: 'Chloe Le Parfum',
-            price: 3550,
-            image: 'https://via.placeholder.com/300x400/FFB6C1/white?text=Chloe',
-            description: 'A luxurious floral fragrance that embodies feminine elegance',
-            notes: 'Top: Pink Peony, Freesia, Lychee. Heart: Magnolia, Lily of the Valley, Rose. Base: Cedarwood, Amber, Honey',
-            ingredients: 'Alcohol Denat, Fragrance, Water, Benzyl Salicylate, Butylphenyl Methylpropional, Citronellol, Geraniol',
-            longevity: '6-8 hours',
-            occasion: 'Perfect for romantic dates, special occasions, and evening wear'
+            name: 'Lataffa Eclaire',
+            price: 2700,
+            image: 'https://via.placeholder.com/300x400/FFB6C1/white?text=Chloe', 'Lattafa Eclaire is a sweet, creamy fragrance that wraps you in warmth and indulgence. It opens with rich notes of caramel and sugar, melting smoothly into soft milky accords and hints of vanilla. As it settles, gentle musks and creamy woods create a cozy, irresistible trail that feels both comforting and luxurious. Perfect for lovers of gourmand scents, Eclaire is like wearing dessert on your skin—soft, addictive, and unforgettable.',
+            
         },
         {
             id: 'w2',
