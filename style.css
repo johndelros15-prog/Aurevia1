@@ -469,5 +469,15 @@ header {
     .orders-panel {
         width: 90%;
         right: 5%;
+        
+        .add-to-cart {
+    display: inline-block !important;
+    padding: .8rem 1.5rem !important;
+    font-size: 1rem !important;
+    background: #d4a574 !important;
+    color: #fff !important;
+    border-radius: 25px !important;
+    }
+    
     }
 }
